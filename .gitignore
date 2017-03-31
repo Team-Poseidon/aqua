@@ -1,1 +1,6 @@
+.gitignore
+.DS_STORE
+.idea
+*/.idea
+/.idea
 private
