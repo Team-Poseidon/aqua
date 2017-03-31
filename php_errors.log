@@ -1,0 +1,61 @@
+[30-Mar-2017 20:44:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cptcrunchy'@'localhost' (using password: NO) in /home/ubuntu/workspace/admin/includes/resources/db.php on line 13
+[30-Mar-2017 20:44:25 UTC] PHP Stack trace:
+[30-Mar-2017 20:44:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/login.php:0
+[30-Mar-2017 20:44:25 UTC] PHP   2. include() /home/ubuntu/workspace/admin/login.php:3
+[30-Mar-2017 20:44:25 UTC] PHP   3. include() /home/ubuntu/workspace/admin/includes/resources/login_header.php:1
+[30-Mar-2017 20:44:25 UTC] PHP   4. mysqli_connect() /home/ubuntu/workspace/admin/includes/resources/db.php:13
+[30-Mar-2017 16:29:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 16:29:02 America/Chicago] PHP Stack trace:
+[30-Mar-2017 16:29:02 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 16:29:02 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 16:29:02 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:02:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:02:43 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:02:43 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:02:43 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:02:43 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:03:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:03:24 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:03:24 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:03:24 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:03:24 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:05:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:05:16 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:05:16 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:05:16 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:05:16 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:07:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:07:31 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:07:31 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:07:31 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:07:31 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:08:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:08:42 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:08:42 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:08:42 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:08:42 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[30-Mar-2017 17:10:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_repairs.php on line 64
+[30-Mar-2017 17:10:00 America/Chicago] PHP Stack trace:
+[30-Mar-2017 17:10:00 America/Chicago] PHP   1. {main}() /home/ubuntu/workspace/admin/repairs.php:0
+[30-Mar-2017 17:10:00 America/Chicago] PHP   2. include() /home/ubuntu/workspace/admin/repairs.php:59
+[30-Mar-2017 17:10:00 America/Chicago] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_repairs.php:64
+[31-Mar-2017 00:19:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_categories.php on line 40
+[31-Mar-2017 00:19:20 UTC] PHP Stack trace:
+[31-Mar-2017 00:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/panel.php:0
+[31-Mar-2017 00:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/admin/panel.php:65
+[31-Mar-2017 00:19:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_categories.php:40
+[31-Mar-2017 00:19:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_categories.php on line 82
+[31-Mar-2017 00:19:20 UTC] PHP Stack trace:
+[31-Mar-2017 00:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/panel.php:0
+[31-Mar-2017 00:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/admin/panel.php:65
+[31-Mar-2017 00:19:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_categories.php:82
+[31-Mar-2017 00:19:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_categories.php on line 168
+[31-Mar-2017 00:19:20 UTC] PHP Stack trace:
+[31-Mar-2017 00:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/panel.php:0
+[31-Mar-2017 00:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/admin/panel.php:65
+[31-Mar-2017 00:19:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_categories.php:168
+[31-Mar-2017 00:19:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/admin/includes/view_all_categories.php on line 232
+[31-Mar-2017 00:19:20 UTC] PHP Stack trace:
+[31-Mar-2017 00:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/panel.php:0
+[31-Mar-2017 00:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/admin/panel.php:65
+[31-Mar-2017 00:19:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/admin/includes/view_all_categories.php:232
